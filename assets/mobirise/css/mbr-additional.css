@@ -1084,6 +1084,11 @@ a {
 }
 .cid-tSPxTQEj25 {
   padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #bed3f9;
+}
+.cid-u8fqHPql1B {
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #bed3f9;
 }
@@ -1356,6 +1361,11 @@ a {
 }
 .cid-tSPyfrMNuk {
   padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #bed3f9;
+}
+.cid-u8frTx9Wdb {
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #bed3f9;
 }
@@ -1389,6 +1399,20 @@ a {
 }
 .cid-tyDUyN1W9Y .bg-twitter:hover {
   background: #0c85d0;
+}
+.cid-tyDUyN1W9Y .bg-dribbble {
+  background: #ea4c89;
+  color: #ffffff;
+}
+.cid-tyDUyN1W9Y .bg-dribbble:hover {
+  background: #e51e6b;
+}
+.cid-tyDUyN1W9Y .bg-tiktok {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-tyDUyN1W9Y .bg-tiktok:hover {
+  background: #000000;
 }
 .cid-tyDUyN1W9Y .bg-youtube {
   background: #ff0000;
